@@ -14,7 +14,8 @@ aplicativo gerador de senhas usando react native
 
 Você precisará do [Node.js](https://nodejs.org) para rodar o app.
 <br/>
-Rodando do modo de desenvolvimento: 
+
+**Rodando do modo de desenvolvimento:**
 ```bash
 git clone https://github.com/MiqueiasCS/bat-pass-app.git
 $ cd bat-pass-app
